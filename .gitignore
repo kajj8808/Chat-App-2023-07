@@ -27,6 +27,7 @@ SocketFornt/.pnpm-debug.log*
 
 # local env files
 SocketFornt/.env*.local
+SocketFornt/.env
 
 # vercel
 SocketFornt/.vercel
@@ -34,4 +35,4 @@ SocketFornt/.vercel
 # typescript
 SocketFornt/*.tsbuildinfo
 SocketFornt/next-env.d.ts
-socketBack/node_modules
+socketServer/node_modules
