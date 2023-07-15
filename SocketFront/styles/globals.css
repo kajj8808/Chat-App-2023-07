@@ -3,8 +3,7 @@
 @tailwind utilities;
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&family=VT323&display=swap");
 body {
-  background: #2d3436;
-  color: aliceblue;
-  /* font-family: "Inter", sans-serif; */
-  font-family: "VT323", monospace;
+  font-family: "Inter", sans-serif;
+  /*   font-family: "VT323", monospace;
+ */
 }
