@@ -8,7 +8,6 @@ interface IMessage {
 }
 
 export default function Message({ nickName, msg, reversed, avatar }: IMessage) {
-  console.log(reversed);
   return (
     <li
       className={cls(
